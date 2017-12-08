@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GameModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DetalleMovimiento">
+    <Key>
+      <PropertyRef Name="DetalleMovimientoId" />
+    </Key>
+    <Property Name="DetalleMovimientoId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="X" Type="int" Nullable="false" />
+    <Property Name="Y" Type="int" Nullable="false" />
+    <Property Name="DX" Type="int" Nullable="false" />
+    <Property Name="DY" Type="int" Nullable="false" />
+    <Property Name="Ancho" Type="int" Nullable="false" />
+    <Property Name="Largo" Type="int" Nullable="false" />
+    <Property Name="MovimientoId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Movimiento">
+    <Key>
+      <PropertyRef Name="MovimientoId" />
+    </Key>
+    <Property Name="MovimientoId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tecla" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="NroMovimientos" Type="int" Nullable="false" />
+    <Property Name="PersonajeId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personaje">
+    <Key>
+      <PropertyRef Name="PersonajeId" />
+    </Key>
+    <Property Name="PersonajeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="Imagen" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="X" Type="int" Nullable="false" />
+    <Property Name="Y" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_DetalleMovimiento_Movimiento">
+    <End Role="Movimiento" Type="Self.Movimiento" Multiplicity="1" />
+    <End Role="DetalleMovimiento" Type="Self.DetalleMovimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movimiento">
+        <PropertyRef Name="MovimientoId" />
+      </Principal>
+      <Dependent Role="DetalleMovimiento">
+        <PropertyRef Name="MovimientoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Movimiento_Personaje">
+    <End Role="Personaje" Type="Self.Personaje" Multiplicity="1" />
+    <End Role="Movimiento" Type="Self.Movimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Personaje">
+        <PropertyRef Name="PersonajeId" />
+      </Principal>
+      <Dependent Role="Movimiento">
+        <PropertyRef Name="PersonajeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GameModelStoreContainer">
+    <EntitySet Name="DetalleMovimiento" EntityType="Self.DetalleMovimiento" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Movimiento" EntityType="Self.Movimiento" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Personaje" EntityType="Self.Personaje" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DetalleMovimiento_Movimiento" Association="Self.FK_DetalleMovimiento_Movimiento">
+      <End Role="Movimiento" EntitySet="Movimiento" />
+      <End Role="DetalleMovimiento" EntitySet="DetalleMovimiento" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Movimiento_Personaje" Association="Self.FK_Movimiento_Personaje">
+      <End Role="Personaje" EntitySet="Personaje" />
+      <End Role="Movimiento" EntitySet="Movimiento" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

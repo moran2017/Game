@@ -1,0 +1,78 @@
+E:\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll.config
+E:\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll
+E:\Game\Game.BL.BC\bin\Debug\Game.BL.BC.pdb
+E:\Game\Game.BL.BC\bin\Debug\EntityFramework.dll
+E:\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.dll
+E:\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll
+E:\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.pdb
+E:\Game\Game.BL.BC\bin\Debug\EntityFramework.xml
+E:\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.xml
+E:\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csprojResolveAssemblyReference.cache
+E:\Game\Game.BL.BC\obj\Debug\Game.BL.BC.dll
+E:\Game\Game.BL.BC\obj\Debug\Game.BL.BC.pdb
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll.config
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.pdb
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.dll
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.dll
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.pdb
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.xml
+H:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.xml
+H:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csprojResolveAssemblyReference.cache
+H:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.dll
+H:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.pdb
+G:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csprojResolveAssemblyReference.cache
+G:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.dll
+G:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.pdb
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll.config
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.pdb
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.dll
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.dll
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.pdb
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.xml
+G:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.xml
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll.config
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.BL.BC.pdb
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.dll
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.dll
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.pdb
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll.config
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.xml
+E:\desarrollo en web\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.xml
+E:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csprojResolveAssemblyReference.cache
+E:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csproj.CoreCompileInputs.cache
+E:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.dll
+E:\desarrollo en web\Game\Game.BL.BC\obj\Debug\Game.BL.BC.pdb
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll.config
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\Game.BL.BC.pdb
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\EntityFramework.dll
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.pdb
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll.config
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\EntityFramework.xml
+C:\Users\Moran\Downloads\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moran\Downloads\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\Moran\Downloads\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csproj.CoreCompileInputs.cache
+C:\Users\Moran\Downloads\Game\Game.BL.BC\obj\Debug\Game.BL.BC.dll
+C:\Users\Moran\Downloads\Game\Game.BL.BC\obj\Debug\Game.BL.BC.pdb
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll.config
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\Game.BL.BC.dll
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\Game.BL.BC.pdb
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\EntityFramework.dll
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.pdb
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\Game.DL.DataModel.dll.config
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\EntityFramework.xml
+C:\Users\Moran\source\repos\Game\Game.BL.BC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moran\source\repos\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\Moran\source\repos\Game\Game.BL.BC\obj\Debug\Game.BL.BC.csproj.CoreCompileInputs.cache
+C:\Users\Moran\source\repos\Game\Game.BL.BC\obj\Debug\Game.BL.BC.dll
+C:\Users\Moran\source\repos\Game\Game.BL.BC\obj\Debug\Game.BL.BC.pdb

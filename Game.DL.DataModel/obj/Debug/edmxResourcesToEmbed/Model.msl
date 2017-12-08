@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GameModelStoreContainer" CdmEntityContainer="GameEntities">
+    <EntitySetMapping Name="DetalleMovimiento">
+      <EntityTypeMapping TypeName="GameModel.DetalleMovimiento">
+        <MappingFragment StoreEntitySet="DetalleMovimiento">
+          <ScalarProperty Name="DetalleMovimientoId" ColumnName="DetalleMovimientoId" />
+          <ScalarProperty Name="X" ColumnName="X" />
+          <ScalarProperty Name="Y" ColumnName="Y" />
+          <ScalarProperty Name="DX" ColumnName="DX" />
+          <ScalarProperty Name="DY" ColumnName="DY" />
+          <ScalarProperty Name="Ancho" ColumnName="Ancho" />
+          <ScalarProperty Name="Largo" ColumnName="Largo" />
+          <ScalarProperty Name="MovimientoId" ColumnName="MovimientoId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Movimiento">
+      <EntityTypeMapping TypeName="GameModel.Movimiento">
+        <MappingFragment StoreEntitySet="Movimiento">
+          <ScalarProperty Name="MovimientoId" ColumnName="MovimientoId" />
+          <ScalarProperty Name="Tecla" ColumnName="Tecla" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="NroMovimientos" ColumnName="NroMovimientos" />
+          <ScalarProperty Name="PersonajeId" ColumnName="PersonajeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personaje">
+      <EntityTypeMapping TypeName="GameModel.Personaje">
+        <MappingFragment StoreEntitySet="Personaje">
+          <ScalarProperty Name="PersonajeId" ColumnName="PersonajeId" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Imagen" ColumnName="Imagen" />
+          <ScalarProperty Name="X" ColumnName="X" />
+          <ScalarProperty Name="Y" ColumnName="Y" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

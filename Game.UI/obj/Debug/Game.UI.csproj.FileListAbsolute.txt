@@ -1,0 +1,117 @@
+E:\Game\Game.UI\bin\Debug\Game.UI.exe.config
+E:\Game\Game.UI\bin\Debug\Game.UI.exe
+E:\Game\Game.UI\bin\Debug\Game.UI.pdb
+E:\Game\Game.UI\bin\Debug\EntityFramework.dll
+E:\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\Game\Game.UI\bin\Debug\Game.BL.BC.dll
+E:\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll
+E:\Game\Game.UI\bin\Debug\Game.BL.BC.pdb
+E:\Game\Game.UI\bin\Debug\Game.DL.DataModel.pdb
+E:\Game\Game.UI\bin\Debug\EntityFramework.xml
+E:\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\Game\Game.UI\obj\Debug\Game.UI.csprojResolveAssemblyReference.cache
+E:\Game\Game.UI\obj\Debug\Game.UI.Form1.resources
+E:\Game\Game.UI\obj\Debug\Game.UI.Properties.Resources.resources
+E:\Game\Game.UI\obj\Debug\Game.UI.Resource.resources
+E:\Game\Game.UI\obj\Debug\Game.UI.csproj.GenerateResource.Cache
+E:\Game\Game.UI\obj\Debug\Game.UI.exe
+E:\Game\Game.UI\obj\Debug\Game.UI.pdb
+H:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.exe.config
+H:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.exe
+H:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.pdb
+H:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.exe
+H:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.pdb
+H:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.dll
+H:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.dll
+H:\desarrollo en web\Game\Game.UI\bin\Debug\Game.BL.BC.dll
+H:\desarrollo en web\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll
+H:\desarrollo en web\Game\Game.UI\bin\Debug\Game.BL.BC.pdb
+H:\desarrollo en web\Game\Game.UI\bin\Debug\Game.DL.DataModel.pdb
+H:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.xml
+H:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.xml
+H:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.csprojResolveAssemblyReference.cache
+H:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Form1.resources
+H:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Properties.Resources.resources
+H:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Resource.resources
+H:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.csproj.GenerateResource.Cache
+G:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.exe.config
+G:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.exe
+G:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.pdb
+G:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.exe
+G:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.pdb
+G:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.dll
+G:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.dll
+G:\desarrollo en web\Game\Game.UI\bin\Debug\Game.BL.BC.dll
+G:\desarrollo en web\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll
+G:\desarrollo en web\Game\Game.UI\bin\Debug\Game.BL.BC.pdb
+G:\desarrollo en web\Game\Game.UI\bin\Debug\Game.DL.DataModel.pdb
+G:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.xml
+G:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.xml
+G:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.csprojResolveAssemblyReference.cache
+G:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Form1.resources
+G:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Properties.Resources.resources
+G:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Resource.resources
+G:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.csproj.GenerateResource.Cache
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.exe.config
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.exe
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.UI.pdb
+E:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.dll
+E:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.BL.BC.dll
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.BL.BC.pdb
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.BL.BC.dll.config
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.DL.DataModel.pdb
+E:\desarrollo en web\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll.config
+E:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.xml
+E:\desarrollo en web\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.csprojResolveAssemblyReference.cache
+E:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Form1.resources
+E:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Properties.Resources.resources
+E:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.Resource.resources
+E:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.csproj.GenerateResource.Cache
+E:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.csproj.CoreCompileInputs.cache
+E:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.exe
+E:\desarrollo en web\Game\Game.UI\obj\Debug\Game.UI.pdb
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.UI.exe.config
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.UI.exe
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.UI.pdb
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\EntityFramework.dll
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.BL.BC.dll
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.BL.BC.pdb
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.BL.BC.dll.config
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.DL.DataModel.pdb
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll.config
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\EntityFramework.xml
+C:\Users\Moran\Downloads\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moran\Downloads\Game\Game.UI\obj\Debug\Game.UI.csprojResolveAssemblyReference.cache
+C:\Users\Moran\Downloads\Game\Game.UI\obj\Debug\Game.UI.Form1.resources
+C:\Users\Moran\Downloads\Game\Game.UI\obj\Debug\Game.UI.Properties.Resources.resources
+C:\Users\Moran\Downloads\Game\Game.UI\obj\Debug\Game.UI.Resource.resources
+C:\Users\Moran\Downloads\Game\Game.UI\obj\Debug\Game.UI.csproj.GenerateResource.Cache
+C:\Users\Moran\Downloads\Game\Game.UI\obj\Debug\Game.UI.csproj.CoreCompileInputs.cache
+C:\Users\Moran\Downloads\Game\Game.UI\obj\Debug\Game.UI.exe
+C:\Users\Moran\Downloads\Game\Game.UI\obj\Debug\Game.UI.pdb
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.UI.exe.config
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.UI.exe
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.UI.pdb
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\EntityFramework.dll
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.BL.BC.dll
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.BL.BC.pdb
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.BL.BC.dll.config
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.DL.DataModel.pdb
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\Game.DL.DataModel.dll.config
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\EntityFramework.xml
+C:\Users\Moran\source\repos\Game\Game.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moran\source\repos\Game\Game.UI\obj\Debug\Game.UI.csprojResolveAssemblyReference.cache
+C:\Users\Moran\source\repos\Game\Game.UI\obj\Debug\Game.UI.Form1.resources
+C:\Users\Moran\source\repos\Game\Game.UI\obj\Debug\Game.UI.Properties.Resources.resources
+C:\Users\Moran\source\repos\Game\Game.UI\obj\Debug\Game.UI.Resource.resources
+C:\Users\Moran\source\repos\Game\Game.UI\obj\Debug\Game.UI.csproj.GenerateResource.Cache
+C:\Users\Moran\source\repos\Game\Game.UI\obj\Debug\Game.UI.csproj.CoreCompileInputs.cache
+C:\Users\Moran\source\repos\Game\Game.UI\obj\Debug\Game.UI.exe
+C:\Users\Moran\source\repos\Game\Game.UI\obj\Debug\Game.UI.pdb

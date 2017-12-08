@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GameModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DetalleMovimiento">
+    <Key>
+      <PropertyRef Name="DetalleMovimientoId" />
+    </Key>
+    <Property Name="DetalleMovimientoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="X" Type="Int32" Nullable="false" />
+    <Property Name="Y" Type="Int32" Nullable="false" />
+    <Property Name="DX" Type="Int32" Nullable="false" />
+    <Property Name="DY" Type="Int32" Nullable="false" />
+    <Property Name="Ancho" Type="Int32" Nullable="false" />
+    <Property Name="Largo" Type="Int32" Nullable="false" />
+    <Property Name="MovimientoId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Movimiento" Relationship="Self.FK_DetalleMovimiento_Movimiento" FromRole="DetalleMovimiento" ToRole="Movimiento" />
+  </EntityType>
+  <EntityType Name="Movimiento">
+    <Key>
+      <PropertyRef Name="MovimientoId" />
+    </Key>
+    <Property Name="MovimientoId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tecla" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NroMovimientos" Type="Int32" Nullable="false" />
+    <Property Name="PersonajeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DetalleMovimiento" Relationship="Self.FK_DetalleMovimiento_Movimiento" FromRole="Movimiento" ToRole="DetalleMovimiento" />
+    <NavigationProperty Name="Personaje" Relationship="Self.FK_Movimiento_Personaje" FromRole="Movimiento" ToRole="Personaje" />
+  </EntityType>
+  <EntityType Name="Personaje">
+    <Key>
+      <PropertyRef Name="PersonajeId" />
+    </Key>
+    <Property Name="PersonajeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Imagen" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="X" Type="Int32" Nullable="false" />
+    <Property Name="Y" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Movimiento" Relationship="Self.FK_Movimiento_Personaje" FromRole="Personaje" ToRole="Movimiento" />
+  </EntityType>
+  <Association Name="FK_DetalleMovimiento_Movimiento">
+    <End Role="Movimiento" Type="Self.Movimiento" Multiplicity="1" />
+    <End Role="DetalleMovimiento" Type="Self.DetalleMovimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movimiento">
+        <PropertyRef Name="MovimientoId" />
+      </Principal>
+      <Dependent Role="DetalleMovimiento">
+        <PropertyRef Name="MovimientoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Movimiento_Personaje">
+    <End Role="Personaje" Type="Self.Personaje" Multiplicity="1" />
+    <End Role="Movimiento" Type="Self.Movimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Personaje">
+        <PropertyRef Name="PersonajeId" />
+      </Principal>
+      <Dependent Role="Movimiento">
+        <PropertyRef Name="PersonajeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GameEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DetalleMovimiento" EntityType="Self.DetalleMovimiento" />
+    <EntitySet Name="Movimiento" EntityType="Self.Movimiento" />
+    <EntitySet Name="Personaje" EntityType="Self.Personaje" />
+    <AssociationSet Name="FK_DetalleMovimiento_Movimiento" Association="Self.FK_DetalleMovimiento_Movimiento">
+      <End Role="Movimiento" EntitySet="Movimiento" />
+      <End Role="DetalleMovimiento" EntitySet="DetalleMovimiento" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Movimiento_Personaje" Association="Self.FK_Movimiento_Personaje">
+      <End Role="Personaje" EntitySet="Personaje" />
+      <End Role="Movimiento" EntitySet="Movimiento" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

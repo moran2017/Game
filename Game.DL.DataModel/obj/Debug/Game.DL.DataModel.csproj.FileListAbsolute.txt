@@ -1,0 +1,52 @@
+E:\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll.config
+E:\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll
+E:\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.pdb
+E:\Game\Game.DL.DataModel\bin\Debug\EntityFramework.dll
+E:\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Game\Game.DL.DataModel\bin\Debug\EntityFramework.xml
+E:\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.csprojResolveAssemblyReference.cache
+E:\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.dll
+E:\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.pdb
+H:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll.config
+H:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll
+H:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.pdb
+H:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\EntityFramework.dll
+H:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+H:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\EntityFramework.xml
+H:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+H:\desarrollo en web\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.csprojResolveAssemblyReference.cache
+H:\desarrollo en web\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.dll
+H:\desarrollo en web\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.pdb
+E:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll.config
+E:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll
+E:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.pdb
+E:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\EntityFramework.dll
+E:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\EntityFramework.xml
+E:\desarrollo en web\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\desarrollo en web\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.csprojResolveAssemblyReference.cache
+E:\desarrollo en web\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.csproj.CoreCompileInputs.cache
+E:\desarrollo en web\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.dll
+E:\desarrollo en web\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.pdb
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll.config
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.pdb
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.dll
+C:\Users\Moran\Downloads\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.pdb
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll.config
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.dll
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\bin\Debug\Game.DL.DataModel.pdb
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.dll
+C:\Users\Moran\source\repos\Game\Game.DL.DataModel\obj\Debug\Game.DL.DataModel.pdb
